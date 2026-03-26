@@ -416,13 +416,4 @@ The model was trained on a structured academic dataset (`updated_dataset.csv`) w
 - [ ] Multi-institutional multi-tenancy support
 
 ---
-
-## 📄 License
-
-This project is for academic purposes. Feel free to use and adapt it with attribution.
-
----
-
-<div align="center">
-Made with ❤️ | AI-Based Student Performance Analyzer
-</div>
+>
